@@ -27,5 +27,5 @@ http://regexr.com/foo.html?q=bar
 carlos.21@gmail.com carlos.augusto_21@asir.iessanclemente.net"""
 
 
-print "TEXTO:\n"+ texto_de_proba+"\n"
-print "correos:", sacar_correos(texto_de_proba)
+print("TEXTO:\n"+ texto_de_proba+"\n")
+print("correos:", sacar_correos(texto_de_proba))

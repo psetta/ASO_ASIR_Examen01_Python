@@ -17,5 +17,5 @@ def eliminar_elementos_unicos(lista):
 
 lista_entrada = [1,2,3,1,3,23,1]
 	
-print "lista_entrada:", lista_entrada
-print "lista saida:", eliminar_elementos_unicos(lista_entrada)
+print("lista_entrada:", lista_entrada)
+print("lista saida:", eliminar_elementos_unicos(lista_entrada))
